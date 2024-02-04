@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ReaderWriterConfig"],"fn":["force_delete_database","start_test_indexer","start_test_indexer_v2","start_test_indexer_v2_impl"],"struct":["SuiTransactionBlockResponseBuilder"]};
